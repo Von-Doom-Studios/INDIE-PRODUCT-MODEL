@@ -76,7 +76,7 @@ Friction-light but defensible.
 
 - **Attestation checkbox** on every generation: "This is me, or someone who has consented to being placed in this image."
 - **On-the-spot selfie option** as one of the input paths. First-time users are nudged toward this with framing like "get started in 10 seconds" — feature, not friction.
-- **Hard celebrity block** — off-the-shelf face recognition API checks input faces against a known-public-figures list. Reject with "we can't use public figures in this product."
+- **Hard celebrity block on uploaded faces only** — off-the-shelf face recognition API checks the *user-uploaded face* (the person being placed into the meme) against a known-public-figures list. Reject with "we can't use public figures in this product." The block does NOT apply to faces inside the meme template itself — memes often contain celebrities by nature, and the whole point of the product is to swap them out.
 - **Mandatory watermark on all Starter outputs.** Pro/Premium removes watermark, but accounts are tied to verified payment method — payment method is the actual abuse deterrent.
 - **C2PA Content Credentials** embedded in every output. Invisible metadata tag that says "made by Main Character on [date] with AI." Standard adopted by Adobe, OpenAI, Meta. Cheap to add, gives us a paper trail.
 - **Abuse reporting** via web form. Two strikes → account closure.

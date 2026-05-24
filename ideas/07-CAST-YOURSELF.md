@@ -18,8 +18,21 @@ The product is for people who have a film idea in their head and want to see it.
 1. **Upload** a photo of yourself (or use saved face model — shared infra with Main Character if both products ship)
 2. **Describe the scene** — what's happening, where, when
 3. **Camera & lighting** — wide shot / close-up / dutch angle / golden hour / neon / candlelit / etc.
-4. **Look / treatment** — director (Villeneuve, Wes Anderson, Nolan, A24-house, Tarantino), genre (dystopian, romance, neo-noir, period drama), color grade (teal-orange, bleach bypass, Kodak film stock, etc.)
-5. **Generate** — get a set of stills back. Pay for more.
+4. **Production equipment** — specific cinema cameras and lenses: ARRI Alexa, RED Komodo / V-Raptor, Sony Venice, Panasonic Varicam, Zeiss Supreme Primes, Cooke S4i, anamorphic vs spherical, etc. Real gear gives real visual fingerprints (sensor look, lens character, flare behavior).
+5. **Look / treatment** — genre (dystopian, romance, neo-noir, period drama), color grade (teal-orange, bleach bypass, Kodak Vision3, etc.). Named-director presets considered but may carry IP/likeness risk — deferred to research phase.
+6. **Inspiration** — reference a specific film or TV series whose visual language the user wants to borrow (Blade Runner 2049, Euphoria, The Crown, Better Call Saul, etc.). This acts as a high-level style prompt that ties together camera, lighting, look, and color grade in one selection.
+7. **Generate** — get a set of stills back. Pay for more.
+
+## Saved Projects & Styles
+
+Users can save:
+- **Projects** — a named collection of stills with shared face model, scene context, and look settings. Lets a user develop a coherent "film" across many generations.
+- **Styles** — a saved combination of camera + lighting + equipment + look + inspiration. Reusable across projects.
+
+Pricing leverages this:
+- Starter — limited number of saved projects and styles
+- Pro — more saved projects and styles
+- Premium — unlimited saved projects and styles + advanced character/scene consistency across a project
 
 ## Why It Fits the Thesis (preliminary read)
 
