@@ -30,15 +30,19 @@ Each idea is scored 1–5 on each thesis principle. Total max = 25. We don't bui
 | 04 | Bring to Life (creative pipeline) | 3 | 4 | 2 | 4 | 5 | **18** | [ideas/04-BRING-TO-LIFE.md](./ideas/04-BRING-TO-LIFE.md) |
 | 05 | Premium Fitness Super-App | 3 | 3 | 1 | 4 | 4 | **15** | [ideas/05-FITNESS-SUPER-APP.md](./ideas/05-FITNESS-SUPER-APP.md) |
 | 06 | Real-Time Game Generation (TTRPG) | 4 | 4 | 2 | 4 | 5 | **19** | [ideas/06-REAL-TIME-GAME-GENERATION.md](./ideas/06-REAL-TIME-GAME-GENERATION.md) |
+| 07 | Cast Yourself (cinematic stills) | 3 | 3 | 4 | 4 | 5 | **19** | [ideas/07-CAST-YOURSELF.md](./ideas/07-CAST-YOURSELF.md) |
+| 08 | Main Character (meme face-swap) | 5 | 4 | 5 | 4 | 5 | **23** | [ideas/08-MAIN-CHARACTER.md](./ideas/08-MAIN-CHARACTER.md) |
 
 ## Ranking by Thesis Fit
 
-1. **#01 Real Estate Assistant** — tied highest. Most specific niche of the bunch. Builds in 3–4 weeks.
-2. **#03 AI Workforce (Security + Construction)** — tied highest. B2B = higher prices. Specific vertical we can dominate.
-3. **#06 Real-Time TTRPG** — 19. Big upside, real build complexity (real-time multimodal).
-4. **#04 Bring to Life** — 18. Aligns with Floating Objects capability but scope is broad.
-5. **#02 I Was Here** — 16. Concept is interesting but pain isn't acute.
-6. **#05 Fitness Super-App** — 15. Violates "no native app at launch." Would need a real pivot.
+1. **#08 Main Character** — 23. Highest in the catalog. Built-in distribution (every output is shareable). Same loop as Photo AI. **Committed as first build.**
+2. **#01 Real Estate Assistant** — 21. Most specific niche. Builds in 3–4 weeks.
+3. **#03 AI Workforce (Security + Construction)** — 21. B2B = higher prices. Specific vertical we can dominate.
+4. **#06 Real-Time TTRPG** — 19. Big upside, real build complexity (real-time multimodal).
+5. **#07 Cast Yourself** — 19. Captured for later. Possible Pro tier of Main Character.
+6. **#04 Bring to Life** — 18. Aligns with Floating Objects capability but scope is broad.
+7. **#02 I Was Here** — 16. Concept is interesting but pain isn't acute.
+8. **#05 Fitness Super-App** — 15. Violates "no native app at launch." Would need a real pivot.
 
 ## Status Legend
 
@@ -52,7 +56,7 @@ Each idea is scored 1–5 on each thesis principle. Total max = 25. We don't bui
 | ⏸️ Paused | On hold. |
 | ❌ Killed | Decided not to pursue. Reason logged. |
 
-All six are currently 💡 Concept. None have been validated yet.
+**#08 Main Character is ✅ Validated and committed as first build (2026-05-24).** All others are 💡 Concept.
 
 ## How to Add an Idea
 
