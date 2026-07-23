@@ -9,3 +9,4 @@ Source material for RPG Platform — PDFs, briefs, and other files provided by A
 | File | What it is |
 |---|---|
 | `Pathfinder 2e - Player Core Remaster Compressed.pdf` | First system book ("Bible") for game mechanics. One of many possible systems — starting point only, may pivot to others later (uploaded 2026-07-23). |
+| `06-REAL-TIME-GAME-GENERATION.md` | Localized copy of the catalog entry from `../../ideas/` (snapshot 2026-07-23). Canonical version stays in `ideas/`. |

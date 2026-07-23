@@ -18,7 +18,8 @@ The working folder for **RPG Platform**. It descends from catalog idea **#06 Rea
 | File | Purpose |
 |---|---|
 | `01-GETTING-STARTED.md` | This file. Entry point and folder map. |
-| `reference/` | Source material from Anthony (PDFs, briefs). Uploaded via GitHub web UI. |
+| `02-VISION-AND-APPROACH.md` | Elevator pitch, end-product description, beta-first decision, division of labor. Shareable briefing for the co-work (business/structure) agent. |
+| `reference/` | Source material: Pathfinder 2e Player Core PDF (first system book), localized copy of catalog entry #06. |
 
 Files 02+ get added once Anthony provides project context. Numbering follows the [agent-guides FOLDER-STRUCTURE](https://github.com/Von-Doom-Studios/agent-guides/blob/main/01-FOLDER-STRUCTURE.md) layers: orientation → strategy → execution → growth/measurement.
 
