@@ -25,12 +25,12 @@ The elevator pitch above, unpacked — the end product, functioning end to end:
 
 **The strategic wedge:** don't out-Roll20 Roll20 on dice mechanics — beat them on being AI-native and generative in real time.
 
-## Deviations From the Catalog Entry
+## The System Book Is a Placeholder
 
-Named explicitly, per portfolio ground rules:
+The Pathfinder 2e PDF in `reference/` is a **placeholder guideline for how games are run** — the mechanism (character creation, checks, combat, conditions) that the platform needs to understand. It is one of many possible Bibles and may be swapped later. Two practical notes that follow from that:
 
-- **Launch system book is Pathfinder 2e, not D&D 5e SRD.** The catalog entry assumed 5e SRD for IP safety. PF2e Remaster is arguably *better* on that front — its game mechanics are published under the ORC license, which is friendlier than Wizards of the Coast's terms. Boundary that holds either way: the product uses ORC-licensed *mechanics*; it never ships the book's text or art verbatim (the PDF in `reference/` is a paid Paizo product, internal reference only, private repo).
-- **System-book pluggability is now a first-class architectural requirement,** not a V2 nice-to-have, because the Bible choice itself is provisional.
+- **Build so the rulebook is swappable.** Nothing in the platform gets hard-wired to Pathfinder. When we pivot Bibles, the platform shouldn't need a rebuild — just a new system book loaded in.
+- **Housekeeping:** the original catalog entry (from May) mentions D&D 5e as the launch ruleset. That's superseded — the launch ruleset is simply whichever Bible we're using at the time. One boundary regardless of system: the product never ships a rulebook's text or art verbatim (the PDF is a paid Paizo product; internal reference only, private repo). It uses the mechanics, not the book.
 
 ## The Approach: Beta-First, Not Plan-First
 
