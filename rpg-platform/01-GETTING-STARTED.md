@@ -5,7 +5,7 @@ A platform for running D&D-style tabletop role-playing games using AI. This fold
 **Owner:** Anthony (product)
 **Status:** 🆕 Setup — awaiting context from Anthony
 **Related files:** [../05-IDEAS.md](../05-IDEAS.md) | [../ideas/06-REAL-TIME-GAME-GENERATION.md](../ideas/06-REAL-TIME-GAME-GENERATION.md) | [../06-PIPELINE.md](../06-PIPELINE.md)
-**Last updated:** 2026-07-22
+**Last updated:** 2026-07-23
 
 ---
 
@@ -18,6 +18,7 @@ The working folder for **RPG Platform**. It descends from catalog idea **#06 Rea
 | File | Purpose |
 |---|---|
 | `01-GETTING-STARTED.md` | This file. Entry point and folder map. |
+| `reference/` | Source material from Anthony (PDFs, briefs). Uploaded via GitHub web UI. |
 
 Files 02+ get added once Anthony provides project context. Numbering follows the [agent-guides FOLDER-STRUCTURE](https://github.com/Von-Doom-Studios/agent-guides/blob/main/01-FOLDER-STRUCTURE.md) layers: orientation → strategy → execution → growth/measurement.
 
@@ -31,5 +32,5 @@ Files 02+ get added once Anthony provides project context. Numbering follows the
 ## Open
 
 - [ ] Anthony to provide project context → expand into files 02+
-- [ ] Confirm relationship to idea #06 (same product, or a re-scope?)
+- [x] Confirm relationship to idea #06 — **confirmed 2026-07-23: same product.** RPG Platform is idea #06 promoted from catalog concept to this working folder. The existing spec in [../ideas/06-REAL-TIME-GAME-GENERATION.md](../ideas/06-REAL-TIME-GAME-GENERATION.md) folds forward as the baseline; it is not a re-scope.
 - [ ] Name / domain decision
