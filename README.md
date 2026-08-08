@@ -15,28 +15,11 @@ indie-product-portfolio/
 ├── 02-THESIS.md                ← the single north star
 ├── 03-LEVELSIO-TEARDOWNS.md    ← real product breakdowns
 ├── 04-STACK.md                 ← default tech stack
-├── 05-IDEAS.md                 ← catalog index, scored
+├── 05-IDEAS.md                 ← how ideas are scored
 ├── 06-PIPELINE.md              ← live status board
 ├── 07-LAUNCH-PROCESS.md        ← repeatable launch playbook
 ├── 08-PRICING-PATTERNS.md      ← pricing models we use
-└── ideas/                      ← one file per candidate product
-    ├── 01-REAL-ESTATE-ASSISTANT.md
-    ├── 02-I-WAS-HERE.md
-    ├── 03-AI-WORKFORCE.md
-    ├── 04-BRING-TO-LIFE.md
-    ├── 05-FITNESS-SUPER-APP.md
-    └── 06-REAL-TIME-GAME-GENERATION.md
 ```
-
-## Current Top Picks
-
-Per [05-IDEAS.md](./05-IDEAS.md) scoring:
-
-1. **#01 Real Estate Assistant (NYC)** — 21/25
-2. **#03 AI Workforce (Security + Construction)** — 21/25
-3. **#06 Real-Time TTRPG Generation** — 19/25
-
-None are validated yet. Next step is interviews and landing-page validation per [07-LAUNCH-PROCESS.md](./07-LAUNCH-PROCESS.md).
 
 ## Source Inspiration
 
