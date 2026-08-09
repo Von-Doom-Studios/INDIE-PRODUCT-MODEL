@@ -12,15 +12,11 @@ is deliberate, so no new evaluation is anchored by an old list.
 
 ---
 
-## How to Read the Scorecard
+## How Ideas Are Judged
 
-Each idea is scored 1-5 on each thesis principle. Total max = 25. We don't build anything scoring below 18 without a strong reason.
-
-| Score | Niche | Pain | Build | Revenue | AI leverage |
-|---|---|---|---|---|---|
-| 5 | Razor-sharp persona | Acute, recurring | ≤2 weeks solo | $20+/mo, clear willingness | 10x+ vs human alternative |
-| 3 | Defined audience | Real but not urgent | 4-6 weeks | Plausible but unproven | 3-5x improvement |
-| 1 | Vague "everyone" | Nice-to-have | Months | Unclear how to charge | Marginal |
+In the Idea Lab, against the standard in [02-THESIS.md](./02-THESIS.md). Every verdict
+is one of three: build, kill, or conditional ("build only if X is true, plus the
+cheapest way to test X"). There is no numeric score.
 
 ## Status Legend
 

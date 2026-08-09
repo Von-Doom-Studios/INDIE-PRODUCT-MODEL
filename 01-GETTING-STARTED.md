@@ -4,7 +4,7 @@ The operating manual for VonDoom Studios' indie product portfolio. Every product
 
 **Owner:** Anthony (founder), VD-Ops (coordination)
 **Related files:** [02-THESIS.md](./02-THESIS.md) | [05-IDEAS.md](./05-IDEAS.md) | [06-PIPELINE.md](./06-PIPELINE.md)
-**Last updated:** 2026-05-21
+**Last updated:** 2026-08-08
 
 ---
 
@@ -22,11 +22,10 @@ This folder is the single source of truth. Anyone — agent or human — should 
 | [02-THESIS.md](./02-THESIS.md) | The single north star. Non-negotiable principles every product follows. |
 | [03-LEVELSIO-TEARDOWNS.md](./03-LEVELSIO-TEARDOWNS.md) | Real teardowns of his live products. Source material for the thesis. |
 | [04-STACK.md](./04-STACK.md) | The default stack. What we use and why. |
-| [05-IDEAS.md](./05-IDEAS.md) | Catalog index. Every idea, scored against the thesis. |
+| [05-IDEAS.md](./05-IDEAS.md) | How ideas are judged. The ideas themselves live in the Idea Lab, not here. |
 | [06-PIPELINE.md](./06-PIPELINE.md) | Live status of every idea — concept, validated, building, shipped, killed. |
 | [07-LAUNCH-PROCESS.md](./07-LAUNCH-PROCESS.md) | The launch checklist and distribution playbook. |
 | [08-PRICING-PATTERNS.md](./08-PRICING-PATTERNS.md) | Pricing models we use, anchored against his live products. |
-| [ideas/](./ideas/) | One file per idea. Each is a candidate, not a commitment. |
 
 ## Ground Rules
 
@@ -47,13 +46,13 @@ These are non-negotiable. If a product violates one, kill it or fix it before la
 
 - **Founder:** Anthony
 - **Portfolio agent:** VD-Ops (this agent)
-- **GitHub:** https://github.com/Von-Doom-Studios/indie-product-portfolio
+- **GitHub:** https://github.com/Von-Doom-Studios/INDIE-PRODUCT-MODEL
 - **Source inspiration:** [@levelsio](https://x.com/levelsio) — Photo AI ($132K+/mo), Interior AI (~$38K/mo), Remote OK (~$35K/mo), Vibe Jam ($40K prize pool, sponsored)
 - **Folder structure standard:** [Von-Doom-Studios/agent-guides/FOLDER-STRUCTURE.md](https://github.com/Von-Doom-Studios/agent-guides/blob/main/FOLDER-STRUCTURE.md)
 
 ## How to Use This Folder
 
 - New to the portfolio? Read this file, then [02-THESIS.md](./02-THESIS.md), then [03-LEVELSIO-TEARDOWNS.md](./03-LEVELSIO-TEARDOWNS.md). Then look at [05-IDEAS.md](./05-IDEAS.md).
-- Picking what to build next? [06-PIPELINE.md](./06-PIPELINE.md) shows status. [05-IDEAS.md](./05-IDEAS.md) shows the catalog with thesis-fit scores.
+- Wondering how ideas are judged? [05-IDEAS.md](./05-IDEAS.md). Each product's status lives in its own repo.
 - Building a product? Follow [07-LAUNCH-PROCESS.md](./07-LAUNCH-PROCESS.md) and price per [08-PRICING-PATTERNS.md](./08-PRICING-PATTERNS.md).
-- Proposing a new idea? Add a file under [ideas/](./ideas/) using the existing files as the template, then add a row to [05-IDEAS.md](./05-IDEAS.md) and [06-PIPELINE.md](./06-PIPELINE.md).
+- Proposing a new idea? Ideas are not filed in this repo. They are pressure-tested in the Idea Lab (a claude.ai project); an idea that survives gets its own repo.

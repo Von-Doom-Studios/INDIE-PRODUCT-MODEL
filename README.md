@@ -9,13 +9,13 @@ VonDoom Studios' indie product portfolio. Niche AI products modeled on [@levelsi
 This folder is built to the [agent-guides FOLDER-STRUCTURE](https://github.com/Von-Doom-Studios/agent-guides/blob/main/FOLDER-STRUCTURE.md) standard.
 
 ```
-indie-product-portfolio/
+INDIE-PRODUCT-MODEL/
 ├── README.md
 ├── 01-GETTING-STARTED.md       ← entry point
 ├── 02-THESIS.md                ← the single north star
 ├── 03-LEVELSIO-TEARDOWNS.md    ← real product breakdowns
 ├── 04-STACK.md                 ← default tech stack
-├── 05-IDEAS.md                 ← how ideas are scored
+├── 05-IDEAS.md                 ← how ideas are judged
 ├── 06-PIPELINE.md              ← live status board
 ├── 07-LAUNCH-PROCESS.md        ← repeatable launch playbook
 ├── 08-PRICING-PATTERNS.md      ← pricing models we use
