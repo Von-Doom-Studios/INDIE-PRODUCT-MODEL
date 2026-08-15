@@ -1,5 +1,11 @@
 # 06 - Pipeline: Live Status of Every Idea
 
+> **Legacy — no longer maintained (2026-08-15).** This file predates the current
+> operating system, which keeps no hand-updated status boards: a product's live
+> state lives in its own repository (its issues and history), never in a file
+> someone must remember to update. Kept as a record of the earlier process;
+> nothing below is current.
+
 The live status board. Whatever is in [05-IDEAS.md](./05-IDEAS.md) shows up here with its current state. Update this file every time an idea moves.
 
 **Owner:** VD-Ops

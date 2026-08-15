@@ -1,5 +1,10 @@
 # 05 - Ideas: How Candidates Are Judged
 
+> **Legacy — no longer maintained (2026-08-15).** This file predates the current
+> operating system. Idea pressure-testing now happens in the Idea Lab, and an idea
+> that survives gets its own repository, where its live state lives. Kept as a
+> record of the earlier judging criteria; nothing below is updated.
+
 **Owner:** Anthony (decides what gets built)
 **Related files:** [02-THESIS.md](./02-THESIS.md) | [06-PIPELINE.md](./06-PIPELINE.md)
 **Last updated:** 2026-08-08
